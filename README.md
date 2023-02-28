@@ -1,4 +1,4 @@
-# ThermodynamicIntegrationTools
+# Thermodynamic Integration Tools
 
 ## extrap-2.0.tgz
 
